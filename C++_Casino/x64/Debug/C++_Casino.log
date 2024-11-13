@@ -1,0 +1,12 @@
+﻿  blackjack.cpp
+  casino.cpp
+  main.cpp
+  RussianRoulette.cpp
+C:\Users\admin\Desktop\C++_카지노\C++_카지노\C++_Casino\C++_Casino\RussianRoulette.cpp(293,30): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\admin\Desktop\C++_카지노\C++_카지노\C++_Casino\C++_Casino\RussianRoulette.cpp(515,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SlotMachine.cpp
+  SnailRace.cpp
+  SutdaGame.cpp
+C:\Users\admin\Desktop\C++_카지노\C++_카지노\C++_Casino\C++_Casino\SutdaGame.cpp(200,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  C++_Casino.vcxproj -> C:\Users\admin\Desktop\C++_카지노\C++_카지노\C++_Casino\x64\Debug\C++_Casino.exe
